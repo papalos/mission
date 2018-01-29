@@ -1,0 +1,11 @@
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\bin\Debug\Mission.exe.config
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\bin\Debug\Mission.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\bin\Debug\Mission.pdb
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\obj\Debug\Mission.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\obj\Debug\Mission.csproj.ResolveComReference.cache
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\obj\Debug\Mission.Properties.Resources.resources
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\obj\Debug\Mission.csproj.GenerateResource.Cache
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\obj\Debug\Mission.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Mission\Mission\obj\Debug\Mission.pdb
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Mission\Mission\obj\Debug\Mission.NumberNote.resources
+C:\Users\sergey\Documents\Visual Studio 2017\Projects\Mission\Mission\bin\Debug\form.docx
